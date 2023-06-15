@@ -1,0 +1,291 @@
+#navbar {
+    background-color: #f1720b;
+}
+.nav-link{
+    color: aliceblue;
+}
+
+.nav-item {
+    margin-left: 25px;
+}
+
+
+#Ultimelogo {
+    margin-left: 400px;
+}
+
+#fb {
+    background-color: #370617;
+    margin-left: 400px;
+    border: 10px solid #370617; 
+}
+
+#twit {
+    background-color: #370617;
+    border: 10px solid #370617;
+}
+
+#mail {
+    background-color: #370617;
+    border: 10px solid #370617;
+}
+
+#coffee {
+    background-color: #370617;
+    border: 10px solid #370617;
+}
+
+
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    margin-top: -100px;
+}
+
+.text-div {
+    height: 200px;
+    width: 400px;
+    background-size: cover;
+    margin-right: 20px;
+}
+
+#barefoot {
+    background-image: url("barefoot.jpg");
+}
+
+#h1barefoot {
+    margin-left: 10px;
+    color: aliceblue;
+}
+
+#pbarefoot { 
+    margin-top:  40px;
+    margin-left: 10px;
+    color: aliceblue;
+}
+
+
+#h1sky {
+    margin-left: 10px;
+    color: aliceblue;
+}
+
+
+#psky { 
+    margin-top:  20px;
+    margin-left: 10px;
+    color: aliceblue;
+}
+
+
+
+#sky {
+    background-image: url("sky.jpg");
+}
+
+
+
+#h1header{
+    color: #f1720b;
+}
+
+#pheader{
+    font-size: 15px;
+    
+}
+
+ #jumbotronequipement {
+    background-image: url("equipement.jpg");
+    background-size: cover;
+    background-position: center;
+    color: #f1720b;
+   
+}
+
+#h1equipement{
+    color: aliceblue;
+    font-size: 30px;
+}
+
+#pequipement {
+    font-weight: bold;
+    font-size: 90px;
+}
+
+#p2equipement {
+    color: #f1720b;
+    font-size: 70px;
+}
+
+
+
+#h1tachometer{
+    color: #f1720b;
+}
+
+
+
+#sav { background-image: url("bg_sav.jpg");
+background-size: cover;
+background-position: center;
+
+ }
+
+
+.feature {
+    margin: 20px;
+    border: 15px solid darkgrey;
+  }
+  
+
+ #truck{
+    height: 80px;
+    width: 80px;
+    margin-left: 15px;
+ }
+
+ #like {
+    margin-top: 30px;
+ }
+
+ #like1 {
+    margin-top: 20px;
+ }
+
+ #like2 {
+    margin-top: 40px;
+ }
+
+
+#warning { 
+    height: 80px;
+    width: 80px;
+}
+ 
+
+
+#truck0 {
+    background-color: darkgrey;
+    width: 200px;
+}
+
+
+#like {
+    background-color: darkgrey;
+    width: 200px;
+}
+
+ 
+
+#warning0 {
+    background-color: darkgrey;
+    width: 200px;
+}
+
+
+
+#exploit {
+    color: #f1720b;
+}
+   
+#exploit1 {
+    font-size: 15px;
+}
+
+
+
+#footer {
+    
+    background-color: #403d39;
+}
+
+#copyright {
+    color: aliceblue;
+}
+
+#footer0{
+    color: aliceblue;
+}
+
+#footer1{
+    color: aliceblue;
+}
+
+#footer2{
+    color: aliceblue;
+}
+
+#footer3{
+    color: aliceblue;
+}
+
+.special-email {
+    color:  #f1720b; 
+  }
+  
+   
+  #bouton1 {
+    margin-left: 10px;
+    background-color: #f1720b;
+    border-radius: 0px;
+    color: aliceblue;
+}
+
+#bouton2 {
+    margin-left: 10px;
+    background-color: #f1720b;
+    border-radius: 0px;
+    color: aliceblue;
+}
+
+
+  #bouton3 {
+    background-color: #370617;
+    border-radius: 0px;
+    color: aliceblue;
+}
+
+
+  #bouton4 {
+    background-color: #370617;
+    border-radius: 0px;
+    color: aliceblue;
+}
+
+
+#bouton5 {
+    background-color: #f1720b;
+    border-radius: 0px;
+    color: aliceblue;
+}
+
+#bouton6 {
+    background-color: #f1720b;
+    border-radius: 0px;
+    color: aliceblue;
+}
+
+#bouton7 {
+    background-color: #f1720b;
+    border-radius: 0px;
+    color: aliceblue;
+}
+
+#bouton8 {
+    background-color: #f1720b;
+    border-radius: 0px;
+    color: aliceblue;
+}
+
+
+#bouton9 {
+    background-color: #f1720b;
+    border-radius: 0px;
+    color: aliceblue;
+}
+
+#copyright {
+    margin-top: 40px;
+    font-size: 10px;
+}
